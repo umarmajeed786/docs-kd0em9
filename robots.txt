@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-yiow2i.nuansa138win.space/sitemap.xml
